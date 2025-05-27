@@ -1,5 +1,5 @@
 - dashboard: acquisition
-  title: "[GA4] Acquisition"
+  title: "Acquisition"
   layout: newspaper
   preferred_viewer: dashboards-next
   elements:
